@@ -1,0 +1,24 @@
+File already exists.
+----------------------------------
+Reading content in the file...
+
+
+welcome
+to class
+----------------------------------
+
+Enter the data to be written to the file
+What is your name
+Data is written to the file.
+----------------------------------
+Reading the file after writing
+What is your name
+----------------------------------
+
+Enter the data to be appended to the file
+Where do you live
+Data is appended to the file.
+----------------------------------
+Reading file after appending
+What is your name
+Where do you live
