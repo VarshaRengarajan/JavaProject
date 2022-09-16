@@ -1,0 +1,68 @@
+
+
+ body{
+   
+     background-color:#f1ebc9 !important;
+     height:auto;
+     width:auto;
+     
+ }
+
+ .carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+
+  .navbar-brand{
+     letter-spacing: 2px;
+     padding: 1px;
+  }
+ 
+  div.card{
+    background-color:#e8e7e3
+    
+  }
+ 
+ .container-content{
+ 
+    padding: 5px;
+ 
+ }
+ 
+ div.row{
+    padding: 5px;
+ }
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Satisfy&display=swap');
+ 
+ h1.menu
+ {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+ }
+
+ div.footer{
+    padding: 10px;
+    color:black;
+    text-align: center;
+    
+ }
+
+ .fa {
+   padding: 20px;
+   font-size: 30px;
+   width: 50px;
+   text-align: center;
+   text-decoration: none;
+ }
+ 
+ /* Add a hover effect if you want */
+ .fa:hover {
+   opacity: 0.7;
+ }
